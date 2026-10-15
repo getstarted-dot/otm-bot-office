@@ -1,0 +1,77 @@
+{
+  "goal": "10 clients by Dec 31, 2026",
+  "lastUpdated": "2026-10-16 07:20 CST (Taipei)",
+  "boss": {
+    "id": "hershe",
+    "name": "Hershe",
+    "role": "Chief Hustle Officer \ud83d\udc51 (CHO)",
+    "status": "approving",
+    "statusLabel": "Approving",
+    "workingOn": "Approving all the things",
+    "prop": "\u2615 \"10 by '26\" mug + plant"
+  },
+  "bots": [
+    {
+      "id": "stella",
+      "name": "Stella",
+      "role": "Ops Manager",
+      "status": "online",
+      "statusLabel": "Online",
+      "corner": true,
+      "workingOn": "Coordinating the team toward 10 clients by year end and tracking pending approvals.",
+      "prop": "Clipboard + gold star badge",
+      "anim": "typing"
+    },
+    {
+      "id": "philippa",
+      "name": "Philippa",
+      "nickname": "Lipa",
+      "role": "Inbox & Drive",
+      "status": "busy",
+      "statusLabel": "Busy",
+      "workingOn": "Checking referral email drafts before they go out, and keeping Gmail & Drive cleanup going.",
+      "prop": "Tidy folders + mail tray",
+      "anim": "typing"
+    },
+    {
+      "id": "rich",
+      "name": "Rich",
+      "role": "Sales & Lead Gen",
+      "status": "busy",
+      "statusLabel": "Busy",
+      "workingOn": "Referral campaign drafts (one per company), plus the one-pager and call script with the new ~25% repeat-hire rate.",
+      "prop": "Closing bell + headset",
+      "anim": "typing"
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "role": "Marketing",
+      "status": "focus",
+      "statusLabel": "Focus",
+      "workingOn": "GoHighLevel homepage draft, and adding the ~25% repeat-hire rate to the Pricing page and FAQ.",
+      "prop": "Megaphone + paint palette",
+      "anim": ""
+    },
+    {
+      "id": "army",
+      "name": "Army",
+      "role": "Recruitment",
+      "status": "online",
+      "statusLabel": "Online",
+      "workingOn": "Candidate screening, endorsements, and reference checks.",
+      "prop": "Resume stack + hiring flag",
+      "anim": ""
+    },
+    {
+      "id": "ninja",
+      "name": "Ninja",
+      "role": "Competitor Spy",
+      "status": "focus",
+      "statusLabel": "Focus",
+      "workingOn": "Weekly competitor watch on Mondays.",
+      "prop": "Binoculars (peeking)",
+      "anim": "peeking"
+    }
+  ]
+}
